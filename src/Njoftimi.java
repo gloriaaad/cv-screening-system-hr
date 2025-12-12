@@ -1,4 +1,6 @@
 @Entity
+
+ //Klasa mbi entitetin e njoftimit
 public class Njoftimi {
  
     @Id
