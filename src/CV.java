@@ -1,6 +1,6 @@
 @Entity
 public class CV {
-
+//klase qe pershkruan entitetin e CV-se
     @Id
     @GeneratedValue
     private Long cvId;
